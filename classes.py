@@ -1,13 +1,10 @@
-#object oriented programming
-
-class Boy:
+class Employee:
     pass
 
 
-boy=Boy()
-boy1=Boy()
-boy2=Boy()
+boy=Employee() 
+
+Employee2=Employee()
 
 print(boy)
-print(boy1)
-print(boy2)
+print(Employee2)
